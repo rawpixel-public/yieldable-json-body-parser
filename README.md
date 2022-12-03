@@ -1,4 +1,4 @@
-# body-parser
+# yieldable-json-body-parser
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
