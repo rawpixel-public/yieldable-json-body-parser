@@ -6,7 +6,10 @@
     "Vincent Baronnet"
   ],
   "license": "MIT",
-  "repository": "rawpixel-public/yieldable-json-body-parser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawpixel-public/yieldable-json-body-parser.git"
+  },
   "dependencies": {
     "bytes": "3.1.2",
     "content-type": "~1.0.4",
