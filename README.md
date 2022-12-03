@@ -2,7 +2,7 @@
 
 
 [![npm](https://img.shields.io/npm/v/yieldable-json-body-parser)](https://www.npmjs.com/package/yieldable-json-body-parser)
-![Tests](https://github.com/rawpixel-vincent/yieldable-json-body-parser/actions/workflows/node.js.yml/badge.svg)
+![Tests](https://github.com/rawpixel-vincent/yieldable-json-body-parser/actions/workflows/ci.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/rawpixel-vincent/yieldable-json-body-parser/badge.svg)](https://coveralls.io/github/rawpixel-vincent/yieldable-json-body-parser?branch=main)
 ![license](https://img.shields.io/npm/l/yieldable-json-body-parser)
 
