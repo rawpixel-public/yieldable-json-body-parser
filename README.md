@@ -8,6 +8,8 @@
 
 Node.js json body parsing middleware using [yieldable-json](https://github.com/ibmruntimes/yieldable-json).
 
+This is based on the json body parser middleware from [body-parser](https://www.npmjs.org/package/body-parser#readme) and uses the same API.
+
 Parse incoming request bodies in a middleware before your handlers, available
 under the `req.body` property.
 
@@ -220,9 +222,6 @@ var express = require('express')
 var bodyParser = require('yieldable-json-body-parser')
 
 var app = express()
-
-// parse application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded())
 
 // parse application/json
 app.use(bodyParser.json())
