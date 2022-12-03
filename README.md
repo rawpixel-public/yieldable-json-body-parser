@@ -6,7 +6,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/rawpixel-vincent/yieldable-json-body-parser/badge.svg)](https://coveralls.io/github/rawpixel-vincent/yieldable-json-body-parser?branch=main)
 ![license](https://img.shields.io/npm/l/yieldable-json-body-parser)
 
-Node.js json body parsing middleware using yieldable-json.
+Node.js json body parsing middleware using [yieldable-json](https://github.com/ibmruntimes/yieldable-json).
 
 Parse incoming request bodies in a middleware before your handlers, available
 under the `req.body` property.
