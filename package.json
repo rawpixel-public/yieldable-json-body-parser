@@ -1,7 +1,7 @@
 {
   "name": "yieldable-json-body-parser",
   "description": "Node.js json body parsing middleware using yieldable-json",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "contributors": [
     "Vincent Baronnet"
   ],
