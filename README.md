@@ -4,6 +4,7 @@
 [![npm](https://img.shields.io/npm/v/yieldable-json-body-parser)](https://www.npmjs.com/package/yieldable-json-body-parser)
 ![Tests](https://github.com/rawpixel-vincent/yieldable-json-body-parser/actions/workflows/ci.yml/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/rawpixel-vincent/yieldable-json-body-parser/badge.svg)](https://coveralls.io/github/rawpixel-vincent/yieldable-json-body-parser?branch=main)
+[![CodeQL](https://github.com/rawpixel-vincent/yieldable-json-body-parser/actions/workflows/codeql.yml/badge.svg)](https://github.com/rawpixel-vincent/yieldable-json-body-parser/actions/workflows/codeql.yml)
 ![license](https://img.shields.io/npm/l/yieldable-json-body-parser)
 
 Node.js json body parsing middleware using [yieldable-json](https://github.com/ibmruntimes/yieldable-json).
